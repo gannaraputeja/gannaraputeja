@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raviteja Gannarapu</h1>
-<h3 align="center">A passionate bay area full stack developer with experience in Java, Python, React, Kubernetes, Docker</h3>
+<h3 align="center">A passionate full stack developer with experience in Java, Python, React, Kubernetes, and Docker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gannaraputeja&label=Profile%20views&color=0e75b6&style=flat" alt="gannaraputeja" /> </p>
 
